@@ -1,0 +1,14 @@
+body{
+    margin-left: 50px;
+}
+li{
+    color: blue;
+    margin: 10px;
+}
+ol{
+    border: 1px solid black;
+    width: 200px;
+}
+footer{
+    text-align: center;
+}
